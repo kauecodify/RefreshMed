@@ -1,6 +1,11 @@
 ![RefreshMed-removebg-preview](https://github.com/user-attachments/assets/c5185af3-1380-4aca-abd0-e59bc4394b9d)
 
+#
+
+
 O **RefreshMed** é um programa simples e intuitivo para calcular a dosagem de medicamentos com base no peso do paciente. Ele foi desenvolvido em Python com uma interface gráfica moderna e arredondada, utilizando a biblioteca `tkinter`.
+
+![image](https://github.com/user-attachments/assets/c5320239-5c32-4651-afa3-4cca3ac7c0b3)
 
 ## Funcionalidades
 
